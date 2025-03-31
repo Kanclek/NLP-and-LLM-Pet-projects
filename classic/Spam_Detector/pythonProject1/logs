@@ -1,0 +1,17 @@
+Data have loaded
+Data have loaded
+Tokenizes
+Tokenizes
+Model result: 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       866
+           1       1.00      1.00      1.00       437
+
+    accuracy                           1.00      1303
+   macro avg       1.00      1.00      1.00      1303
+weighted avg       1.00      1.00      1.00      1303
+
+Confusion matrix: 
+[[866   0]
+ [  1 436]]
